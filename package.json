@@ -1,13 +1,18 @@
 {
-  "name": "hex-color-utils",
-  "version": "1.1.0",
-  "description": "Convert between hex, RGB, and HSL color formats",
+  "name": "@vaporlogicgp/hex-color-utils",
+  "version": "1.0.0",
+  "description": "Convert between hex and RGB color formats",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/vaporlogic/hex-color-utils.git"
   },
-  "keywords": ["color", "hex", "rgb", "hsl", "convert"],
+  "keywords": [
+    "color",
+    "hex",
+    "rgb",
+    "convert"
+  ],
   "author": "color-tools-oss",
   "license": "MIT"
 }
